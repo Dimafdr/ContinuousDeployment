@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuliaSenina/Continuous_Deployment.git"
+    "url": "git+https://github.com/Dimafdr/ContinuousDeployment.git"
   },
-  "author": "JuliaSenina",
+  "author": "Dimafdr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JuliaSenina/Continuous_Deployment/issues"
+    "url": "https://github.com/Dimafdr/ContinuousDeployment/issues"
   },
-  "homepage": "https://github.com/JuliaSenina/Continuous_Deployment#readme",
+  "homepage": "https://github.com/Dimafdr/ContinuousDeployment#readme",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
     "@babel/core": "^7.19.3",
