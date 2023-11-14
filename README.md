@@ -1,6 +1,5 @@
-# Webpack5
-[![Build status](https://ci.appveyor.com/api/projects/status/906c4b2fqacmg3io?svg=true)] 
-[GH Pages](https://ci.appveyor.com/project/Dimafdr/continuousdeployment)
+# Домашнее задание к лекции «Рабочее окружение»
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+[![Build status](https://ci.appveyor.com/api/projects/status/906c4b2fqacmg3io?svg=true)](https://ci.appveyor.com/project/Dimafdr/continuousdeployment)
+[GH Pages](https://dimafdr.github.io/ContinuousDeployment/)
+## Continuous Deployment
